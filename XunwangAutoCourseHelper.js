@@ -7,7 +7,7 @@
 // @homepageURL  https://github.com/Lengdong888/XunwangAutoCourseHelper
 // @supportURL   https://github.com/Lengdong888/XunwangAutoCourseHelper/issues
 // @license      MIT
-// @icon         https://github.com/Lengdong888/XunwangAutoCourseHelper/blob/main/script-icon.png
+// @icon         https://github.com/Lengdong888/XunwangAutoCourseHelper/raw/main/script-icon.png
 // @match        *://jypxzx.whut.edu.cn/*
 // @match        *://*.whxunw.com/*
 // @grant        none
