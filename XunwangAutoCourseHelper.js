@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         武理网课全自动答题+自动下一节
+// @name         武汉讯网助学刷课助手
 // @namespace    https://github.com/Lengdong888
 // @version      1.0.0
 // @author       Lengdong888
