@@ -1,14 +1,16 @@
 // ==UserScript==
-// @name         XunwangAutoCourseHelper
-// @namespace    http://tampermonkey.net/
-// @version      5.1
-// @author       冷冬
-// @description  自动答题、关闭解析、视频结束自动下一课程（支持跨章节）
+// @name         武理网课全自动答题+自动下一节
+// @namespace    https://github.com/Lengdong888
+// @version      1.0.0
+// @author       Lengdong888
+// @description  武汉理工大学继续教育平台自动答题、关闭解析、视频结束自动下一节，支持跨章节连续播放
+// @homepageURL  https://github.com/Lengdong888/XunwangAutoCourseHelper
+// @supportURL   https://github.com/Lengdong888/XunwangAutoCourseHelper/issues
+// @license      MIT
 // @match        *://jypxzx.whut.edu.cn/*
 // @match        *://*.whxunw.com/*
 // @grant        none
 // ==/UserScript==
-
 
 (function () {
 
