@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         武汉讯网自考助学刷课助手
+// @name         XunwangAutoCourseHelper
 // @namespace    http://tampermonkey.net/
 // @version      5.1
 // @author       冷冬
